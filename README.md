@@ -48,20 +48,8 @@ The dataset comprises 19,158 instances and 14 attributes, including information 
 
 ## Getting Started
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/HR_Analytics_Job_Change_Data_Scientists.git
-    ```
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the data preprocessing and model training scripts in the `notebooks/` directory.
+ Run the data preprocessing and model training scripts in the `notebooks/` directory.
 
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
-
-## License
-
-This project is licensed under the MIT License.
