@@ -1,5 +1,5 @@
 # HR Analytics: Identifying Job Change Factors for Aspiring Data Scientists
-https://github.com/rpjinu/HR_Analytics_Job_Change_Data_Scientists/blob/main/HR-Analytics.jpg
+
 This project aims to identify the key factors that influence individuals to change their current jobs in favor of becoming data scientists. By analyzing various attributes related to credentials, demographics, and experience, the goal is to build models that can predict the probability of job change and interpret the underlying factors affecting this decision.
 
 ## Project Overview
